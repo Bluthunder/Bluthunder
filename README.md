@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluthunder
-- 👀 I’m interested in test automation
+- 👀 I’m interested in test automation, SRE, NFR
 - 🌱 I’m currently learning nodejs 
 - 💞️ I’m looking to collaborate on test automation specially on accessibility automation and visual validations
 - 📫 How to reach me - drop me a email on kaushiktd@gmail.com or https://www.linkedin.com/in/kaushiktd/ or https://twitter.com/kaushiktd
