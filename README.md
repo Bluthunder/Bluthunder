@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluthunder
-- 👀 I’m interested in test automation, SRE, Non-Functional
+- 👀 I’m interested in test automation, SRE, Non-Functional, Cloud Engineering
 - 📫 How to reach me - drop me a email on kaushiktd@gmail.com or https://www.linkedin.com/in/kaushiktd/ or https://twitter.com/kaushiktd
 
 <!---
