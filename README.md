@@ -1,5 +1,5 @@
 - 👋 Hi.. 
-- 👀 I’m interested in Test automation, SRE, Non-Functional, Cloud Engineering, Gen AI
+- 👀 I’m interested in Automation, SRE, Observability, Cloud Engineering, Gen AI, ML and MLOps
 - 📫 How to reach me - drop me a email on kaushiktd@gmail.com or https://www.linkedin.com/in/kaushiktd/ or https://twitter.com/kaushiktd
 
 <!---
