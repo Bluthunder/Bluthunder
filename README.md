@@ -1,5 +1,22 @@
-# 💫 About Me:
-## 👨‍💻 About Me  <br><br>- 🚀 Senior Developer | AI Engineering | ML & MLOps   <br>- 💡 Building: **Agentic AI systems, RAG pipelines, multi-agent orchestration**  <br>- ⚡ Interests: **CUDA, parallel programming, high-performance AI, and observability in ML systems**  <br>- 🛠️ Tech stack: `Python` `FastAPI` `PySpark` `AWS` `Terraform` `Docker` `Kubernetes` React`  <br>- 🌱 Learning: **Statistics | Probability | PyTorch internals | Scalable MLOps workflows**  <br>- 📚 Currently reading:  <br>  - *Hands-On Machine Learning – Aurélien Géron*  <br>  - *AI Engineering - Chip Huyen*  <br>  - *Designing Data-Intensive Applications – Martin Kleppmann*  <br>  - *Programming PyTorch for Deep Learning – Ian Pointer*  <br>- 📸 Outside tech: Wildlife & Landscape Photography | 🥾 Trekking | 🥊 Boxing | 🍳 Cooking  <br><br>### 🔗 Find me around the web  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/kaushiktd)  <br>- ✍️ [Medium Blog](https://medium.com/@kaushik)  <br>
+## 👨‍💻 About Me  
+<br>- 🚀 Senior Developer | AI Engineering | ML & MLOps  
+<br>- 💡 Building: **Agentic AI systems, RAG pipelines, multi-agent orchestration**  
+<br>- ⚡ Interests: **CUDA, parallel programming, high-performance AI, and observability in ML systems**  
+<br>- 🛠️ Tech stack: `Python` `FastAPI` `PySpark` `AWS` `Terraform` `Docker` `Kubernetes` `React`  
+<br>- 🌱 Learning: **Statistics | Probability | PyTorch internals | Scalable MLOps workflows**  
+<br>- 📚 Currently reading:  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;- *Hands-On Machine Learning – Aurélien Géron*  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;- *AI Engineering – Chip Huyen*  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;- *Designing Data-Intensive Applications – Martin Kleppmann*  
+<br> &nbsp;&nbsp;&nbsp;&nbsp;- *Programming PyTorch for Deep Learning – Ian Pointer*  
+<br>- 📸 Outside tech: Wildlife & Landscape Photography | 🥾 Trekking | 🥊 Boxing | 🍳 Cooking  
+
+<br>  
+
+### 🔗 Find me around the web  
+<br>- 💼 [LinkedIn](https://www.linkedin.com/in/kaushiktd)  
+<br>- ✍️ [Medium Blog](https://medium.com/@kaushik)  
+
 
 
 ## 🌐 Socials:
