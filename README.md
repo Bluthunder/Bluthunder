@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me  
-<br>- 🚀 Senior Developer | AI Engineering | ML & MLOps  
+<br>- 🚀 Senior Staff Engineer | AI Engineering | ML & MLOps  
 <br>- 💡 Building: **Agentic AI systems, RAG pipelines, multi-agent orchestration**  
 <br>- ⚡ Interests: **CUDA, parallel programming, high-performance AI, and observability in ML systems**  
 <br>- 🛠️ Tech stack: `Python` `FastAPI` `PySpark` `AWS` `Terraform` `Docker` `Kubernetes` `React`  
